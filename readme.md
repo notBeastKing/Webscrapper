@@ -20,7 +20,7 @@ This script uses:
 - `requests` to send HTTP requests  
 - `BeautifulSoup` to parse and extract data from HTML
 
-###`selenium_scrapper.py`
+### `selenium_scrapper.py`
 
 This script uses:
 
